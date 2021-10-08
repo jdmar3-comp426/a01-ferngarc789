@@ -5,7 +5,7 @@ h1 {
 a {
     border: aqua;
 }
-.day {
+#day {
     font-size: large;
 }
 #NIGHT {
@@ -22,8 +22,6 @@ button:hover {
     color: crimson;
 }
 .title {
-    border-radius: 10;
-    padding-left: .5;
     width: fit-content;
     height: fit-content;
     font: 100;
