@@ -1,4 +1,13 @@
-H1 {
+h1 {
     position: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+    border: aqua;
+}
+.day {
+    font-size: large;
+}
+#NIGHT {
+    text-align: right;
 }
