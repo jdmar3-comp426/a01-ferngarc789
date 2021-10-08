@@ -11,3 +11,17 @@ a {
 #NIGHT {
     text-align: right;
 }
+#media {
+    font-style: italic;
+    border-color: aqua;
+}
+li {
+    background-color: #012490;
+}
+button:hover {
+    color: crimson;
+}
+title {
+    border-radius: 10;
+    position: center;
+}
