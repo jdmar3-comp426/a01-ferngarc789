@@ -32,3 +32,6 @@ button:hover {
 .current {
     font-family: 'Times New Roman', Times, serif;
 }
+div > p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
