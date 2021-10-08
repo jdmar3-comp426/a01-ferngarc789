@@ -1,5 +1,5 @@
 h1 {
-    position: center;
+
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 a {
@@ -21,7 +21,16 @@ li {
 button:hover {
     color: crimson;
 }
-title {
+.title {
     border-radius: 10;
-    position: center;
+    padding-left: .5;
+    width: fit-content;
+    height: fit-content;
+    font: 100;
+}
+.about:hover {
+    color: coral;
+}
+.current {
+    font-family: 'Times New Roman', Times, serif;
 }
